@@ -1,0 +1,11 @@
+/add/public/storage/*
+/app/public/uploads/*
+/app/bootstrap/cache/*
+/app/storage/app/
+/app/storage/logs/
+/app/storage/framework/cache/
+/app/storage/framework/views/
+/app/storage/framework/sessions/
+/app/vendor
+
+.git
